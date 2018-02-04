@@ -13,12 +13,9 @@
 
 ### 3枚目のスライド
 コードを読み込んでみよう
+
 ---?code=nodeapp.js
-
-
 リポジトリ内の「nodeapp.js」を読み込んで表示してます
-
-
 ---
 
 ``` console.log("hogehoge");
